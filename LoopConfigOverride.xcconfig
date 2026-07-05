@@ -1,7 +1,7 @@
 #include? "../../LoopConfigOverride.xcconfig"
 
 // Override this if you don't want the default com.${DEVELOPMENT_TEAM}.loopkit that loop uses
-// MAIN_APP_BUNDLE_IDENTIFIER = com.myname.loop
+MAIN_APP_BUNDLE_IDENTIFIER = com.hanselmanloop.loopkit
 
 // Customize this to change the app name displayed
 //MAIN_APP_DISPLAY_NAME = Loop
